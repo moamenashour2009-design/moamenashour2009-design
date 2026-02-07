@@ -1,5 +1,5 @@
 ### 👋 Hi there!
 
-My Codeforces Handle:
+Here is my Codeforces Status:
 
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-moamenashour2009-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moamenashour2009)
+[![Codeforces Profile](https://codeforces-readme-stats.vercel.app/api/card?username=moamenashour2009&theme=dark)](https://codeforces.com/profile/moamenashour2009)
