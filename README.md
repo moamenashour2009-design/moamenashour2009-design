@@ -1,5 +1,5 @@
 ### 👋 Hi there!
 
-Check out my Codeforces Stats:
+My Codeforces Handle:
 
-![Codeforces Stats](https://cf-stats-card.vercel.app/api/card?username=moamenashour2009&theme=github_dark)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-moamenashour2009-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moamenashour2009)
